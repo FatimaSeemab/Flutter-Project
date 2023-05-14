@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12112814672",
+    "project_id": "cricace-28f39",
+    "storage_bucket": "cricace-28f39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12112814672:android:92dbb32d577e6ef8fb6755",
+        "android_client_info": {
+          "package_name": "com.example.lab7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12112814672-imad3c4g1gldj7n3p6fncafqilbfoebq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDujBW8wBd6hSLGOd8jdYmkbol-KdWr8QM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12112814672-imad3c4g1gldj7n3p6fncafqilbfoebq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
