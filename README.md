@@ -1,16 +1,7 @@
-# lab7
+* We are proposing an exciting and innovative application that focuses on providing detailed insights into the performance of Pakistani players in the Pakistan Super League (PSL) 8. The application has been designed to cater to the needs of cricket enthusiasts who want to stay updated on the latest trends and performances of their favorite players.
+* The main feature of the application is the profile of each player, which includes analytics and their playing style based on their previous performances. These profiles are designed to showcase the strong and weak areas of the players on the pitch. For example, for bowlers, the profile will display the areas of the pitch where the player is most vulnerable and where the opponent players can bowl to get the wicket. Similarly, for batsmen, the profile will highlight the areas of the pitch where the player scores the most runs and where the opponent players should avoid bowling.
+* Another exciting feature of the application is the display of bowlers' balling length. This feature provides valuable information to the users about the type of bowling length the particular bowler mostly uses. For instance, whether the bowler mostly plays yorker or bounces, which is valuable information for the batsmen who want to face the bowler.
+* The application also offers a comparison feature where the user can choose any two players from the list and compare their strong and weak zones. This feature gives the user a better understanding of the areas of the pitch that can be dangerous for a particular player. This comparison feature is particularly useful for cricket enthusiasts who want to bet on the outcomes of the matches based on the players' performances.The data of the players profile is stored in firebase.
 
-A new Flutter project.
+* Finally, there is also an option of uploading videos to our app. This feature is designed to provide cricket enthusiasts with an opportunity to upload their videos and use our models and API to predict the bowling length of the ball bowled and the batting shot played by the batsman. This feature is not only exciting for cricket enthusiasts but also helps them to improve their skills by getting valuable feedback on their performance.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
